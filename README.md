@@ -19,12 +19,19 @@ curl http://api-ip:5000/camera/pause
 curl http://api-ip:5000/camera/resume
 
 * camera 1
+
 curl http://api-ip:5000/camera/1
+
 * camera 2
+
 curl http://api-ip:5000/camera/2
+
 * camera 3
+
 curl http://api-ip:5000/camera/3
+
 * camera 4
+
 curl http://api-ip:5000/camera/4
 
 
