@@ -1,5 +1,5 @@
 # rpisurv-api
-API for rpisurv
+API for rpisurv (https://github.com/SvenVD/rpisurv)
 
 Simple API to simulate keyboard press for changing screen
 
