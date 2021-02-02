@@ -12,6 +12,7 @@ sudo nohup python3 rpisurv-api.py > log.txt 2>&1 &
 http call example:
 
 * pause rotation
+
 curl http://api-ip:5000/camera/pause 
 
 * resume
