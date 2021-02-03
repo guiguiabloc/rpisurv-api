@@ -32,6 +32,7 @@ def camresume():
 def cam1():
   try:
       keyboard.press_and_release('F1')
+      return("ok") 
   except:
       print("Error")
       return "Error"
@@ -40,6 +41,7 @@ def cam1():
 def cam2():
   try:
       keyboard.press_and_release('F2')
+      return("ok") 
   except:
       print("Error")
       return "Error"
@@ -48,6 +50,7 @@ def cam2():
 def cam3():
   try:
       keyboard.press_and_release('F3')
+      return("ok") 
   except:
       print("Error")
       return "Error"
@@ -56,6 +59,7 @@ def cam3():
 def cam4():
   try:
       keyboard.press_and_release('F4')
+      return("ok") 
   except:
       print("Error")
       return "Error"
